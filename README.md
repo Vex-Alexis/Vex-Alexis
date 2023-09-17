@@ -1,9 +1,6 @@
 # 💫 About Me:
 Soy desarrollador de software full stack apasionado por analisis, diseño, implementacion, despliegue y en general por el ciclo de vida del desarrollo de software. Mi área de especialización es el desarrollo Frontend y Backend.
 
-[![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtN2xsODU0aWZ2OHBuem5kMXg3NnN4bWwwMGJhcmZtbDU0NDZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif){: width="300px"}]
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_alexischavarria_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vexalexis/) 
 
@@ -21,6 +18,8 @@ Soy desarrollador de software full stack apasionado por analisis, diseño, imple
 
 <!--
 ### Hi there 👋
+
+![Gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJtN2xsODU0aWZ2OHBuem5kMXg3NnN4bWwwMGJhcmZtbDU0NDZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 **Vex-Alexis/Vex-Alexis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
