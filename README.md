@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador de software full stack apasionado por analisis, diseño, implementacion, despliegue y en general por el ciclo de vida del desarrollo de software. Mi área de especialización es el desarrollo Frontend y Backend.
+Soy desarrollador de software full stack apasionado por analisis, diseño, implementacion, despliegue y en general por el ciclo de vida del desarrollo de software. Mi área de especialización es la perseverancia.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_alexischavarria_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vexalexis/) 
