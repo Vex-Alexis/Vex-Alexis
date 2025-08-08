@@ -1,9 +1,5 @@
 # 💫 About Me:
-Desarrollador Full Stack con más de 4 años de experiencia diseñando y construyendo soluciones backend y frontend. He trabajado en el desarrollo de microservicios y aplicaciones web con tecnologías como Java (Spring Boot), .NET Core, Node.js y
-Python, con persistencia en bases de datos SQL y NoSQL como PostgreSQL, MySQL, MongoDB y Redis. Experiencia en el diseño e implementación de APIs RESTful, uso de WebSockets y GraphQL. Experiencia en arquitecturas de 
-microservicios basadas en eventos (Event-Driven) utilizando Kafka, AWS SQS y RabbitMQ, con despliegue en entornos Cloud (AWS, Azure, IBM), contenedores Docker y herramientas de CI/CD (Azure DevOps, GitHub Actions, GitLab).
-Me adapto fácilmente a cualquier stack tecnológico con enfoque en buenas prácticas de desarrollo, principios SOLID y patrones de diseño, priorizando la mantenibilidad, escalabilidad y colaboración ágil en equipos interdisciplinarios.
-
+Desarrollador de software con más de 4 años de experiencia, experto en construir microservicios Backend con Java y .NET con integración de servicios cloud (AWS, IBM y Azure). He diseñado y desarrollado aplicaciones utilizando Spring Boot, Java, C#, .NET, Angular con arquitecturas limpias, hexagonal y orientadas a microservicios. Mi experiencia incluye Desarrollo de APIs RESTful con Auth, implementación de AWS (S3, DynamoDB, SQS, RDS, Lambda), gestión de bases de datos SQL (PostgreSQL, SQL Server, Oracle) y NoSQL con Redis para manejo de caché, contenerización de aplicaciones con Docker y automatización en procesos de CI/CD.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_alexischavarria_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vexalexis/) 
